@@ -1,12 +1,16 @@
-﻿using System;
+﻿using DesislavsPieShop.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DesislavsPieShop.Models
+namespace BethanysPieShop.Models
 {
     public class MockPieRepository : IPieRepository
     {
+        private readonly ICategoryRepository _categoryRepository = new MockCategoryRepository();
+
+
         public IEnumerable<Pie> Pies
         {
             get
@@ -21,17 +25,10 @@ namespace DesislavsPieShop.Models
             }
         }
 
-        public IEnumerable<Pie> PiesOfTheWeek
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-        }
-
+        public IEnumerable<Pie> PiesOfTheWeek { get; }
         public Pie GetPieById(int pieId)
         {
-            throw new NotImplementedException();
+            throw new System.NotImplementedException();
         }
     }
 }

@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using DesislavsPieShop.Models;
+using BethanysPieShop.Models;
 
 namespace DesislavsPieShop
 {

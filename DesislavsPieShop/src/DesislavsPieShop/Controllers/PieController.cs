@@ -26,7 +26,7 @@ namespace DesislavsPieShop.Controllers
             PiesListViewModel piesListViewModel = new PiesListViewModel();
             piesListViewModel.Pies = _pieRepository.Pies;
 
-            piesListViewModel.CurrentDirectory = "Cheese cake";
+            piesListViewModel.CurrentCategory = "Cheese cake";
             return View(piesListViewModel);
         }
     }

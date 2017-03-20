@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using DesislavsPieShop.Models;
 
-namespace BethanysPieShop.Models
+namespace DesislavsPieShop.Models
 {
     public class ShoppingCart
     {

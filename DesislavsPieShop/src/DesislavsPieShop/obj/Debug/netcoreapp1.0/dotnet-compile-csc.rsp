@@ -199,6 +199,9 @@
 -resource:"D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\obj\Debug\netcoreapp1.0\DesislavsPieShopdotnet-compile.deps.json",DesislavsPieShop.deps.json
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Program.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Startup.cs"
+"D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Components\CategoryMenu.cs"
+"D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Components\ShoppingCartSummary.cs"
+"D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\HomeController.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\PieController.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\ShoppingCartController.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Migrations\20170319231028_Initial.cs"
@@ -218,5 +221,6 @@
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\PieRepository.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\ShoppingCart.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\ShoppingCartItem.cs"
+"D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\HomeViewModel.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\PiesListViewModel.cs"
 "D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\ShoppingCartViewModel.cs"

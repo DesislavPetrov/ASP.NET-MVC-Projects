@@ -205,6 +205,7 @@ D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\P
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Startup.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Components\CategoryMenu.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Components\ShoppingCartSummary.cs
+D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\ContactController.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\HomeController.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\PieController.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Controllers\ShoppingCartController.cs
@@ -225,6 +226,7 @@ D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\M
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\PieRepository.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\ShoppingCart.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\Models\ShoppingCartItem.cs
+D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\TagHelpers\EmailTagHelper.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\HomeViewModel.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\PiesListViewModel.cs
 D:\GitHub\ASP.NET-MVC-Projects.git\trunk\DesislavsPieShop\src\DesislavsPieShop\ViewModels\ShoppingCartViewModel.cs

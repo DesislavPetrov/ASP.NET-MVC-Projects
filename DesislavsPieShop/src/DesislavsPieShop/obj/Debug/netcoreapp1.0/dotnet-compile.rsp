@@ -49,8 +49,8 @@
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Razor\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Razor.dll
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Razor.Runtime\1.0.0\lib\netstandard1.5\Microsoft.AspNetCore.Razor.Runtime.dll
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Razor.Tools\1.0.0-preview2-final\lib\netcoreapp1.0\dotnet-razor-tooling.dll
---reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Routing\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Routing.dll
---reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Routing.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Routing.Abstractions.dll
+--reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Routing\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Routing.dll
+--reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Routing.Abstractions\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Routing.Abstractions.dll
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Server.IISIntegration\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Server.IISIntegration.dll
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Server.Kestrel\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Server.Kestrel.dll
 --reference:C:\Users\win\.nuget\packages\Microsoft.AspNetCore.Session\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Session.dll

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0/",
-    "signature": "543c70d757ec2b7ca047cacb15a8fbe77d568ee8"
+    "signature": "695f5eb6b603589b78909f4e7e7a5333b2811ed5"
   },
   "compilationOptions": {
     "defines": [
@@ -28,7 +28,8 @@
           "Microsoft.Extensions.Configuration.Json": "1.0.0",
           "Microsoft.AspNetCore.Session": "1.0.0",
           "CacheManager.Microsoft.Extensions.Caching.Memory": "1.0.0",
-          "Microsoft.AspNetCore.Http.Extensions": "1.0.0"
+          "Microsoft.AspNetCore.Http.Extensions": "1.0.0",
+          "Microsoft.AspNetCore.Routing": "1.0.1"
         },
         "compile": {
           "DesislavsPieShop.dll": {}
@@ -330,7 +331,7 @@
       },
       "Microsoft.AspNetCore.Mvc.Abstractions/1.0.1": {
         "dependencies": {
-          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.0",
+          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.1",
           "Microsoft.CSharp": "4.0.1",
           "Microsoft.Net.Http.Headers": "1.0.0",
           "System.ComponentModel.TypeConverter": "4.1.0",
@@ -355,7 +356,7 @@
           "Microsoft.AspNetCore.Hosting.Abstractions": "1.0.0",
           "Microsoft.AspNetCore.Http": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "1.0.1",
-          "Microsoft.AspNetCore.Routing": "1.0.0",
+          "Microsoft.AspNetCore.Routing": "1.0.1",
           "Microsoft.Extensions.DependencyModel": "1.0.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
@@ -492,10 +493,10 @@
           "lib/netstandard1.5/Microsoft.AspNetCore.Razor.Runtime.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Routing/1.0.0": {
+      "Microsoft.AspNetCore.Routing/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Extensions": "1.0.0",
-          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.0",
+          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.1",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
           "Microsoft.Extensions.ObjectPool": "1.0.0",
           "Microsoft.Extensions.Options": "1.0.0",
@@ -506,7 +507,7 @@
           "lib/netstandard1.3/Microsoft.AspNetCore.Routing.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Routing.Abstractions/1.0.0": {
+      "Microsoft.AspNetCore.Routing.Abstractions/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "1.0.0",
           "System.Collections.Concurrent": "4.3.0",
@@ -2999,7 +3000,8 @@
           "Microsoft.Extensions.Configuration.Json": "1.0.0",
           "Microsoft.AspNetCore.Session": "1.0.0",
           "CacheManager.Microsoft.Extensions.Caching.Memory": "1.0.0",
-          "Microsoft.AspNetCore.Http.Extensions": "1.0.0"
+          "Microsoft.AspNetCore.Http.Extensions": "1.0.0",
+          "Microsoft.AspNetCore.Routing": "1.0.1"
         },
         "runtime": {
           "DesislavsPieShop.dll": {}
@@ -3301,7 +3303,7 @@
       },
       "Microsoft.AspNetCore.Mvc.Abstractions/1.0.1": {
         "dependencies": {
-          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.0",
+          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.1",
           "Microsoft.CSharp": "4.0.1",
           "Microsoft.Net.Http.Headers": "1.0.0",
           "System.ComponentModel.TypeConverter": "4.1.0",
@@ -3326,7 +3328,7 @@
           "Microsoft.AspNetCore.Hosting.Abstractions": "1.0.0",
           "Microsoft.AspNetCore.Http": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "1.0.1",
-          "Microsoft.AspNetCore.Routing": "1.0.0",
+          "Microsoft.AspNetCore.Routing": "1.0.1",
           "Microsoft.Extensions.DependencyModel": "1.0.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
@@ -3463,10 +3465,10 @@
           "lib/netstandard1.5/Microsoft.AspNetCore.Razor.Runtime.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Routing/1.0.0": {
+      "Microsoft.AspNetCore.Routing/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Extensions": "1.0.0",
-          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.0",
+          "Microsoft.AspNetCore.Routing.Abstractions": "1.0.1",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
           "Microsoft.Extensions.ObjectPool": "1.0.0",
           "Microsoft.Extensions.Options": "1.0.0",
@@ -3477,7 +3479,7 @@
           "lib/netstandard1.3/Microsoft.AspNetCore.Routing.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Routing.Abstractions/1.0.0": {
+      "Microsoft.AspNetCore.Routing.Abstractions/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "1.0.0",
           "System.Collections.Concurrent": "4.3.0",
@@ -6052,15 +6054,15 @@
       "serviceable": true,
       "sha512": "sha512-hsq6xJeqDDb78akZuy79QE3kaCxcigD3vccbIaNrrz7JSXOzayfteF06ToK+J1SXSDRtrBj3XZZfrjiqIY/vCw=="
     },
-    "Microsoft.AspNetCore.Routing/1.0.0": {
+    "Microsoft.AspNetCore.Routing/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NvFvRtYHXWjBbXz5/7F7JDNcdhrE+tG1/Q9R6LmMxFgu8tkl1bqtFZQbMy17FYFkmm8Fn/T81blRGE2nxCbDRA=="
+      "sha512": "sha512-uddFeoL8aRYSlyl+zcBnHlrtRIkp1AEfPNBIiBjNJ4b9PMApTWIpvy8OdyXUksV+bM6TciA23zFfNvzZWIlG/Q=="
     },
-    "Microsoft.AspNetCore.Routing.Abstractions/1.0.0": {
+    "Microsoft.AspNetCore.Routing.Abstractions/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ne5CFiD1xCGSHrGICw7PsVnj7gijfkMfsw52AO6ingcUhE01dc87cJPpfGLnY22MIvqn11ECLbNZYmzFp/Rs+A=="
+      "sha512": "sha512-Vjjt7TVG0S7ozWyD7vbdy9oQ2LIWebE18hUBM1WMmLPz83w3b8+MKUjz8nP5AnnHXxQskQ5WhYMkICETgXnb+g=="
     },
     "Microsoft.AspNetCore.Server.IISIntegration/1.0.0": {
       "type": "package",

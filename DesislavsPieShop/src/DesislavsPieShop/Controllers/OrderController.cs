@@ -1,4 +1,5 @@
 ﻿using DesislavsPieShop.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,7 @@ namespace DesislavsPieShop.Controllers
             _shoppingCart = shoppingCart;
         }
 
+        
         public IActionResult Checkout()
         {
             return View();

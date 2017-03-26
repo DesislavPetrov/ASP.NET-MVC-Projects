@@ -12,6 +12,15 @@ namespace DesislavsPieShop.Models
         {
             _appDbContext = appDbContext;
         }
-        public IEnumerable<Category> Categories => _appDbContext.Categories;
+        //public IEnumerable<Category> Categories => _appDbContext.Categories;
+
+        public IEnumerable<Category> Categories
+        {
+            get
+            {
+                return _appDbContext.Categories;
+            }
+        }
+
     }
 }
